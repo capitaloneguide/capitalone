@@ -57,7 +57,7 @@ Activate by Phone
 
 Prefer phone support? Call the toll-free number provided on the sticker of your card. The standard number is:
 
-📞 Call the Capital One Support Number
+
 
 Follow the automated system to enter your card details and complete activation.
 
