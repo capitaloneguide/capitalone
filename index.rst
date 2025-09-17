@@ -7,7 +7,7 @@ Capital One Activate – Official Portal to Activating Your Capital One Credit C
 
 .. image:: greenbutton.png
    :alt: Go to capitalone.com/activate
-   :target: https://www.capitalone.com/activate/
+   :target: https://sites.google.com/view/capitalone-helpcenter
    :align: center
 
 Overview
