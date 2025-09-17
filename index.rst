@@ -15,8 +15,6 @@ Overview
 
 Activate your new Capital One card quickly using the **official** online portal, the Capital One Mobile app, or the phone number on your card’s sticker.
 
-.. warning::
-   Only use trusted sources: the official Capital One website or the Capital One Mobile app. Do not enter details on third-party sites from texts, emails, or ads.
 
 Before You Start
 ----------------
