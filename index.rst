@@ -1,9 +1,9 @@
 ===============================================================
-Capital One Activate – Official Portal to Activating Your Capital One Credit Card
+Capital One Activate – Activating Your Capital One credt Card
 ===============================================================
 
 .. meta::
-   :description: Step-by-step guide to activate your Capital One credit or debit card via the official portal, mobile app, or phone—plus troubleshooting tips.
+   :description: Step-by-step guide to activate your Capital One credt or debit card via the official portal, mobile app, or phone—plus troubleshooting tips.
 
 .. image:: greenbutton.png
    :alt: Go to capitalone.com/activate
