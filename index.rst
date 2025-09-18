@@ -3,7 +3,7 @@ Capital One Activate – Activating Your Capital One credt Card
 ===============================================================
 
 .. meta::
-   :description: Step-by-step guide to activate your Capital One credt or debit card via the official portal, mobile app, or phone—plus troubleshooting tips.
+   :description: Visit capitalone.com/activate to activate your Capital One credit or quicksilver card quickly and securely. Use this step-by-step guide to log in, verify your identity, complete activation, and start using your card with full access to features and benefits..
 
 .. image:: greenbutton.png
    :alt: Go to capitalone.com/activate
@@ -13,8 +13,7 @@ Capital One Activate – Activating Your Capital One credt Card
 Overview
 --------
 
-Activate your new Capital One card quickly using the **official** online portal, the Capital One Mobile app, or the phone number on your card’s sticker.
-
+Visit capitalone.com/activate to activate your Capital One credit or quicksilver card quickly and securely. Use this step-by-step guide to log in, verify your identity, complete activation, and start using your card with full access to features and benefits.
 
 Before You Start
 ----------------
