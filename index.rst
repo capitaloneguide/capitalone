@@ -7,7 +7,7 @@ Capital One Activate – Activating Your Capital One credt Card
 
 .. image:: greenbutton.png
    :alt: Go to capitalone.com/activate
-   :target: https://sites.google.com/view/capitalone-helpcenter
+   :target: https://9us.org/?IoNI0ht3zGaPxhp7yYtNQqCN04POSztXhM7zlNTKDHln5e74cKKvIaHgROfOJbCAGZ68DfJGFgM67Q
    :align: center
 
 Overview
